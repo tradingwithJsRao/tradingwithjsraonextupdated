@@ -165,7 +165,7 @@ export default function PrivacyPolicyPage() {
               If you have questions or comments about this Privacy Policy, please contact us at:
             </p>
             <div className="mt-4 p-4 bg-muted rounded-lg">
-              <p className="text-muted-foreground">Email: raojs04@gmail.com</p>
+              <p className="text-muted-foreground">Email: raojansher04@gmail.com</p>
              
               <p className="text-muted-foreground">
                 Address: ranjanpur, punjab, Pakistan
