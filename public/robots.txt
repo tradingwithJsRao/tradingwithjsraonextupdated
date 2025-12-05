@@ -1,0 +1,20 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Allow: /
+
+# Point crawlers to the XML sitemap for more efficient indexing. Adding the
+# Sitemap directive helps search engines discover all pages. Update the
+# URL if your sitemap location changes. See Next.js docs for generating
+# sitemaps programmatically【67770806549595†L482-L518】.
+Sitemap: https://tradingwithjsrao.com/sitemap.xml
